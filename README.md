@@ -1,6 +1,8 @@
 # EcoCycleDB
 
 
+![Texto alternativo](assets/99145156/d8019314-3bcb-4e81-92d9-b998141a1af1.png){: style="max-width: 300px;"}
+
 ![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/d8019314-3bcb-4e81-92d9-b998141a1af1)
 
 EcoReciclaDB es una base de datos diseñada para gestionar información relacionada con el reciclaje y la sostenibilidad. Esta base de datos almacena datos sobre usuarios, materiales reciclables, puntos de reciclaje, 
