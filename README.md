@@ -1,4 +1,4 @@
-![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/15619027-7394-446f-b54e-502169ffeb8a)# EcoCycleDB
+# EcoCycleDB
 
 ![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/d8019314-3bcb-4e81-92d9-b998141a1af1)
 
