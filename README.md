@@ -31,4 +31,26 @@ RegistroReciclaje: Esta clase registra los detalles de cada evento de reciclaje 
 
 ![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/2b8dfd89-ab37-4a33-b97a-170950128cc3)
 
+# Consulta de Total Reciclado por Punto de Reciclaje y Material
+Esta consulta proporciona información sobre la cantidad total reciclada de cada material en cada punto de reciclaje. Es útil para realizar un seguimiento del rendimiento del reciclaje en diferentes ubicaciones y para
+diferentes tipos de materiales.
+
+Descripción de la Consulta
+La consulta se basa en las siguientes tablas de la base de datos:
+
+RegistroReciclaje: Contiene información sobre cada registro de reciclaje, incluyendo el punto de reciclaje, el material reciclado y la cantidad reciclada.
+PuntosRe: Almacena información sobre los puntos de reciclaje, como el nombre, la dirección y la ubicación geográfica.
+Materiales: Contiene detalles sobre los materiales reciclados, como el nombre, la descripción y el tipo.
+
+![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/1678807b-6132-49c6-b499-eab3f6b29504)
+
+Resultados
+La consulta devolverá una lista de resultados que incluyen:
+
+punto_reciclaje: El nombre del punto de reciclaje.
+material: El nombre del material reciclado.
+total_reciclado: La cantidad total reciclada de ese material en ese punto de reciclaje.
+Los resultados estarán ordenados de mayor a menor cantidad total reciclada.
+
+
 
