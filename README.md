@@ -52,5 +52,15 @@ material: El nombre del material reciclado.
 total_reciclado: La cantidad total reciclada de ese material en ese punto de reciclaje.
 Los resultados estarán ordenados de mayor a menor cantidad total reciclada.
 
+![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/1ec639f3-0ea5-4f15-9aeb-784d530854bb)
+
+# Consulta para Obtener Detalles de Reciclaje
+
+Se proporciona una consulta SQL para obtener detalles específicos sobre las transacciones de reciclaje. La consulta devuelve información sobre cada registro de reciclaje, incluyendo el nombre del punto de reciclaje, el tipo de material reciclado, la cantidad reciclada, la fecha de registro y los detalles del usuario que realizó el reciclaje.
+
+![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/a7404969-d6f0-447d-ad2f-b7ffaab18e49)
+
+![image](https://github.com/andreec2/EcoCycleDB/assets/99145156/f04091fa-ffbc-4e8b-a675-0268c248f9a1)
+
 
 
